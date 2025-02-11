@@ -3,7 +3,7 @@ Baixar depedências:
 npm i
 ```
 
-Rodar os teste:
+Rodar os testes:
 ```bash
 npx jest
 ```
